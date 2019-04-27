@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "../../dist/server",
+    "module": "commonjs",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "strict": false
+  }
+}
